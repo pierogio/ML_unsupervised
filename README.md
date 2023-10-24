@@ -7,9 +7,9 @@
 With the aid of machine learning, the goal is to identify certain groups of Facebook users based on their behavior through clustering. We aim to identify these groups with the assistance of machine learning.
 
 ## Methods Used
-* Algoritmo K-means
-* Algoritmo de clustering jerárquico 
-* Rendimiento del clustering
+* K-means Algorithm
+* Hierarchical Clustering Algorithm
+* Clustering Performance
 
 ## Technologies Used
 * Jupyter Notebook
