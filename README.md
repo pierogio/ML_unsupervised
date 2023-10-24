@@ -9,4 +9,10 @@ With the aid of machine learning, the goal is to identify certain groups of Face
 ## Algorithms Used and Compared:
 * K-means Algorithm
 * Hierarchical Clustering Algorithm
-* Clustering Performance
+
+## Clustering Performance Evaluation:
+* PCA (Principal Component Analysis)
+* Silhouette Score
+* Calinski-Harabasz Index
+* Davies-Bouldin Index
+
